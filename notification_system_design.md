@@ -124,8 +124,3 @@ To maintain the top 10 efficiently as new notifications stream in:
 
 ### Implementation
 The logic is implemented in `priority_inbox/index.js`, which fetches live data from the Notification API and applies the scoring algorithm to find the top 10.
-
-
-
-
-
