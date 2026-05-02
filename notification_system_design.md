@@ -1,6 +1,6 @@
-# Stage 1: Campus Notifications Microservice
+# Campus Notifications Microservice
 
-### REST API Endpoints
+# Stage 1: REST API Endpoints
 - `GET /notifications`: List all (supports `page` & `category` filters).
 - `PATCH /notifications/:id/read`: Mark one as read.
 - `GET /notifications/summary`: Get unread counts by category.
